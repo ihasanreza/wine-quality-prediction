@@ -1,4 +1,4 @@
-# Wine Quality Classification Using Machine Learning
+# Wine Quality Prediction Using Machine Learning
 
 This repository contains a Jupyter notebook that demonstrates the process of classifying white wines into different quality categories based on their physicochemical properties. The project adopts a scientific data analysis approach, leveraging various machine learning models to predict wine quality.
 
