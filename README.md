@@ -25,7 +25,7 @@ Before you can run this notebook, you'll need to have the following installed:
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
-4. Launch Jupyter Notebook or JupyterLab and open the `Wine_quality_classification_using_ML.ipynb` notebook.
+4. Launch Jupyter Notebook or JupyterLab and open the `Wine_quality_prediction_using_ML.ipynb` notebook.
 
 ## Usage
 
